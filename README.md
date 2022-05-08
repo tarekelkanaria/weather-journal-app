@@ -22,7 +22,7 @@ Tarek M. Abdelraouf Shaer
 
 - use API credentials from openweathermap website. 
 
-- modify `app.js` by fetch the data from openweathermap and lsten to generate button to execute the url to API key. 
+- modify `app.js` by fetch the data from openweathermap and listen to generate button to execute the url to API key. 
 
 - make post request to add API data as well as data entered by user to the app 
 
